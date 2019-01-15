@@ -8,7 +8,7 @@ web_link <- "http://yqzx.ustc.edu.cn/login_cas"
 login_name <- "SA16019027"
 login_password <- "********"
 interval <- 0.5 # fillment interval
-money_bound <- 10000 # 4500 * 7 = 31500
+money_bound <- 10000 
 
 
 
